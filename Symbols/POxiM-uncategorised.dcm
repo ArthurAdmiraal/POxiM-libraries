@@ -6,4 +6,12 @@ K LED diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP NCV8161
+F https://eu.mouser.com/datasheet/2/308/NCV8161-D-1114233.pdf
+$ENDCMP
+#
+$CMP NLAS4053
+F https://eu.mouser.com/datasheet/2/308/NLAS4053-D-1813256.pdf
+$ENDCMP
+#
 #End Doc Library
