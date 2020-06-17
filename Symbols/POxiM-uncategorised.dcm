@@ -6,4 +6,18 @@ K LED diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP NCV8161
+F https://eu.mouser.com/datasheet/2/308/NCV8161-D-1114233.pdf
+$ENDCMP
+#
+$CMP NLAS4053
+F https://eu.mouser.com/datasheet/2/308/NLAS4053-D-1813256.pdf
+$ENDCMP
+#
+$CMP SW_Rotary1x4
+D 3 rotary switches with 4 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
 #End Doc Library
